@@ -1,1 +1,1 @@
-# study_list
+https://leetcode.com
